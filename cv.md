@@ -5,9 +5,9 @@
 
 
 ## Contacts for communication:
-Phone: +37529135343
-E-mail: juliyanovic@gmail.com
-Telegram: @Juliya_Novik
+* Phone: +37529135343
+* E-mail: juliyanovic@gmail.com
+* Telegram: @Juliya_Novik
 
 
 ## About Me:
@@ -39,8 +39,8 @@ let value = prompt ("Введите число", " ");
 ```
 
 ## Education:
-JS / FRONT-END. STAGE 0 (in progress)
+JS / FRONT-END. STAGE 0 from RS School (in progress)
 
  
 ## Language:
-English level - A2
+English level- A2
